@@ -18,7 +18,7 @@ open mysql using username as 'test'
 and password as 'malak'
 run railway.sql
 --------------------------------------------------------------------------------------------------------------------------------
-Open terminal
+Open terminal run Following Commands
 cd 'Path/to/project/folder'
 php -S localhost:8000
 --------------------------------------------------------------------------------------------------------------------------------
