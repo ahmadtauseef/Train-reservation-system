@@ -20,3 +20,5 @@ This project is a model ticket booking system
 7. Open Browser
 8. Goto https://localhost:8000
 9. and start booking
+
+# Please go through assignment3.pdf
